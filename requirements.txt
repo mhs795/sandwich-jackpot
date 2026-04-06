@@ -1,0 +1,4 @@
+# Desktop testing dependencies
+kivy[base]>=2.3.0
+anthropic>=0.40.0
+plyer>=2.1.0
